@@ -1,6 +1,6 @@
 #COMPUTER SCIENCE FUNDAMENTALS (CSF)
 ###COURSE SYLLABUS
-Jesse was here
+Jesse was here. Hello World!
 **SESSION 1:**
 Using an IDE, components of a computer, static vs. 
 dynamic languages, running simple programs. 
