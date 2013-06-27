@@ -1,9 +1,16 @@
 public class IntArraySorter {
     public int[] sortArray(int[] array) {
-        // TODO:
-        // For each number in the array
-        // Look at every number after it, in sequence
-        // If the first number is greater than the second, swap them
+        for(int i=0; i<array.length; i++){
+
+            for(int i2=i+1;i2<array.length;i2++){
+                if(array[i2]<array[i]){
+                    int iHolder = array[i];
+                    array[i] = array[i2];
+                    array[i2] = iHolder;
+                }
+            }
+
+        }
 
         return array;
     }
