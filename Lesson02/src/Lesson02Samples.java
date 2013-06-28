@@ -114,7 +114,7 @@ public class Lesson02Samples {
 
     public static void inputAndSearch() {
         // 1) Ask the user to input 10 words
-
+        3
         // 2) Then ask the user to input a search word
         // 3) If the word exists in the first 10 words, print true, otherwise print false
         // 4) Return to step 2
