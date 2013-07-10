@@ -7,6 +7,10 @@
  */
 public class ReservationInternet extends Reservation {
 
+    private ReservationInternet(){
+        super;
+    }
+
     private String sourceWebsite;
     private String createTime;
     private String phoneNumber;
