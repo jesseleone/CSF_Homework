@@ -1,41 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7f22fdcd-828d-44dd-bb08-c2343006c912" name="Default" comment="" />
-    <ignored path="Lesson02.iws" />
+    <list default="true" id="34c8787c-6f93-4d91-adf4-d2b7948970b3" name="Default" comment="" />
+    <ignored path="LibraryProject.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Lesson02Samples.java" changelist="7f22fdcd-828d-44dd-bb08-c2343006c912" time="1372294070776" ignored="false" />
-    <file path="$APPLICATION_HOME_DIR$/lib/idea.jar!/standardSchemas/xhtml1-transitional.xsd" changelist="7f22fdcd-828d-44dd-bb08-c2343006c912" time="1372383155791" ignored="false" />
-    <file path="$APPLICATION_HOME_DIR$/lib/idea.jar!/standardSchemas/xhtml1-strict.xsd" changelist="7f22fdcd-828d-44dd-bb08-c2343006c912" time="1372383155792" ignored="false" />
-    <file path="$APPLICATION_HOME_DIR$/lib/idea.jar!/resources/relaxng.rng" changelist="7f22fdcd-828d-44dd-bb08-c2343006c912" time="1372383155792" ignored="false" />
-    <file path="$APPLICATION_HOME_DIR$/lib/idea.jar!/standardSchemas/XMLSchema.xsd" changelist="7f22fdcd-828d-44dd-bb08-c2343006c912" time="1372383155792" ignored="false" />
-    <file path="$APPLICATION_HOME_DIR$/lib/idea.jar!/standardSchemas/xinclude.xsd" changelist="7f22fdcd-828d-44dd-bb08-c2343006c912" time="1372383155792" ignored="false" />
-    <file path="$APPLICATION_HOME_DIR$/lib/idea.jar!/standardSchemas/xslt-1_0.xsd" changelist="7f22fdcd-828d-44dd-bb08-c2343006c912" time="1372383155792" ignored="false" />
-    <file path="$APPLICATION_HOME_DIR$/plugins/xpath/lib/xpath.jar!/org/intellij/lang/xpath/xslt/resources/documentation.xsl" changelist="7f22fdcd-828d-44dd-bb08-c2343006c912" time="1372383155792" ignored="false" />
-    <file path="$APPLICATION_HOME_DIR$/lib/idea.jar!/standardSchemas/xslt-2_0.xsd" changelist="7f22fdcd-828d-44dd-bb08-c2343006c912" time="1372383155792" ignored="false" />
-    <file path="$APPLICATION_HOME_DIR$/plugins/xpath/lib/xpath.jar!/org/intellij/lang/xpath/xslt/resources/documentation.xml" changelist="7f22fdcd-828d-44dd-bb08-c2343006c912" time="1372383155792" ignored="false" />
-    <file path="$APPLICATION_HOME_DIR$/lib/idea.jar!/standardSchemas/xml.xsd" changelist="7f22fdcd-828d-44dd-bb08-c2343006c912" time="1372383155792" ignored="false" />
-    <file path="$APPLICATION_HOME_DIR$/plugins/xpath/lib/xpath.jar!/org/intellij/lang/xpath/xslt/resources/xslt-schema.xsd" changelist="7f22fdcd-828d-44dd-bb08-c2343006c912" time="1372383155792" ignored="false" />
-    <file path="$APPLICATION_HOME_DIR$/lib/idea.jar!/standardSchemas/xhtml1-frameset.xsd" changelist="7f22fdcd-828d-44dd-bb08-c2343006c912" time="1372383155792" ignored="false" />
-    <file path="$APPLICATION_HOME_DIR$/lib/idea.jar!/standardSchemas/XMLSchema-instance.xsd" changelist="7f22fdcd-828d-44dd-bb08-c2343006c912" time="1372383155792" ignored="false" />
-    <file path="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven.jar!/schemas/settings-1.0.0.xsd" changelist="7f22fdcd-828d-44dd-bb08-c2343006c912" time="1372383155792" ignored="false" />
-    <file path="$APPLICATION_HOME_DIR$/lib/idea.jar!/standardSchemas/catalog.xsd" changelist="7f22fdcd-828d-44dd-bb08-c2343006c912" time="1372383155792" ignored="false" />
-    <file path="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven.jar!/schemas/maven-4.0.0.xsd" changelist="7f22fdcd-828d-44dd-bb08-c2343006c912" time="1372383155792" ignored="false" />
-    <file path="$APPLICATION_HOME_DIR$/lib/idea.jar!/standardSchemas/html5/xhtml5.xsd" changelist="7f22fdcd-828d-44dd-bb08-c2343006c912" time="1372383155792" ignored="false" />
-    <file path="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven.jar!/schemas/profiles-1.0.0.xsd" changelist="7f22fdcd-828d-44dd-bb08-c2343006c912" time="1372383155792" ignored="false" />
-    <file path="$PROJECT_DIR$/../Lesson05/Lesson05_Homework/src/Application.java" changelist="7f22fdcd-828d-44dd-bb08-c2343006c912" time="1373428203563" ignored="false" />
-    <file path="/Application.java" changelist="7f22fdcd-828d-44dd-bb08-c2343006c912" time="1373424686294" ignored="false" />
-    <file path="$PROJECT_DIR$/../Lesson05/Lesson05_Homework/src/Interface.java" changelist="7f22fdcd-828d-44dd-bb08-c2343006c912" time="1373486266257" ignored="false" />
-    <file path="/Interface.java" changelist="7f22fdcd-828d-44dd-bb08-c2343006c912" time="1373486231822" ignored="false" />
-    <file path="$PROJECT_DIR$/../Lesson05/Lesson05_Homework/src/Reservation.java" changelist="7f22fdcd-828d-44dd-bb08-c2343006c912" time="1373485070471" ignored="false" />
-    <file path="/Reservation.java" changelist="7f22fdcd-828d-44dd-bb08-c2343006c912" time="1373485067746" ignored="false" />
-    <file path="$PROJECT_DIR$/../Lesson05/Lesson05_Homework/src/ReservationPhone.java" changelist="7f22fdcd-828d-44dd-bb08-c2343006c912" time="1373426792457" ignored="false" />
-    <file path="$PROJECT_DIR$/../Lesson05/Lesson05_Homework/src/ReservationInternet.java" changelist="7f22fdcd-828d-44dd-bb08-c2343006c912" time="1373422036352" ignored="false" />
-    <file path="/ReservationPhone.java" changelist="7f22fdcd-828d-44dd-bb08-c2343006c912" time="1373422420212" ignored="false" />
-    <file path="$PROJECT_DIR$/../Lesson05/Lesson05_Homework/src/PhoneReservation.java" changelist="7f22fdcd-828d-44dd-bb08-c2343006c912" time="1373486272796" ignored="false" />
-    <file path="$PROJECT_DIR$/../Lesson05/Lesson05_Homework/src/InternetReservation.java" changelist="7f22fdcd-828d-44dd-bb08-c2343006c912" time="1373485412352" ignored="false" />
-    <file path="/PhoneReservation.java" changelist="7f22fdcd-828d-44dd-bb08-c2343006c912" time="1373485356103" ignored="false" />
-    <file path="/InternetReservation.java" changelist="7f22fdcd-828d-44dd-bb08-c2343006c912" time="1373485410847" ignored="false" />
+    <file path="/Application.java" changelist="34c8787c-6f93-4d91-adf4-d2b7948970b3" time="1373696503556" ignored="false" />
+    <file path="/Book.java" changelist="34c8787c-6f93-4d91-adf4-d2b7948970b3" time="1373777779221" ignored="false" />
+    <file path="/Magazine.java" changelist="34c8787c-6f93-4d91-adf4-d2b7948970b3" time="1373777788487" ignored="false" />
+    <file path="/Dvd.java" changelist="34c8787c-6f93-4d91-adf4-d2b7948970b3" time="1373777794683" ignored="false" />
+    <file path="/Library.java" changelist="34c8787c-6f93-4d91-adf4-d2b7948970b3" time="1373778467161" ignored="false" />
+    <file path="/User.java" changelist="34c8787c-6f93-4d91-adf4-d2b7948970b3" time="1373753811118" ignored="false" />
+    <file path="/Item.java" changelist="34c8787c-6f93-4d91-adf4-d2b7948970b3" time="1373777709251" ignored="false" />
+    <file path="/Transaction.java" changelist="34c8787c-6f93-4d91-adf4-d2b7948970b3" time="1373701024307" ignored="false" />
+    <file path="/HasOverdueItems.java" changelist="34c8787c-6f93-4d91-adf4-d2b7948970b3" time="1373751075992" ignored="false" />
+    <file path="/ChecksOverdue.java" changelist="34c8787c-6f93-4d91-adf4-d2b7948970b3" time="1373751745149" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,25 +70,83 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
-    <favorites_list name="Lesson02" />
+    <favorites_list name="LibraryProject" />
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Lesson02Samples.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Lesson02Samples.java">
+      <file leaf-file-name="Library.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Library.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="78" vertical-scroll-proportion="-6.7647057">
+            <state line="0" column="1" selection-start="1" selection-end="1" vertical-scroll-proportion="0.0">
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#217#223#0" expanded="true" />
+                <element signature="e#323#329#0" expanded="true" />
+                <element signature="e#430#443#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="IntArraySorter.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/IntArraySorter.java">
+      <file leaf-file-name="Transaction.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Transaction.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="0" selection-start="407" selection-end="407" vertical-scroll-proportion="0.0">
+            <state line="15" column="0" selection-start="409" selection-end="409" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Item.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Item.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="61" column="37" selection-start="1456" selection-end="1456" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="User.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/User.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="18" column="0" selection-start="374" selection-end="374" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Dvd.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Dvd.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="40" selection-start="179" selection-end="179" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Application.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Application.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="36" column="35" selection-start="1388" selection-end="1388" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#0#1435#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Book.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Book.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="39" selection-start="180" selection-end="180" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Magazine.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Magazine.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="48" selection-start="227" selection-end="227" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -126,16 +162,23 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/IntArraySorter.java" />
-        <option value="$PROJECT_DIR$/src/Lesson02Samples.java" />
+        <option value="$PROJECT_DIR$/src/Transaction.java" />
+        <option value="$PROJECT_DIR$/src/HasOverdueItems.java" />
+        <option value="$PROJECT_DIR$/src/ChecksOverdue.java" />
+        <option value="$PROJECT_DIR$/src/Application.java" />
+        <option value="$PROJECT_DIR$/src/User.java" />
+        <option value="$PROJECT_DIR$/src/Item.java" />
+        <option value="$PROJECT_DIR$/src/Book.java" />
+        <option value="$PROJECT_DIR$/src/Magazine.java" />
+        <option value="$PROJECT_DIR$/src/Dvd.java" />
+        <option value="$PROJECT_DIR$/src/Library.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="10" />
-    <option name="y" value="437" />
+    <option name="y" value="22" />
     <option name="width" value="1260" />
-    <option name="height" value="352" />
+    <option name="height" value="760" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -163,33 +206,33 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Lesson02" />
+              <option name="myItemId" value="LibraryProject" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Lesson02" />
+              <option name="myItemId" value="LibraryProject" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Lesson02" />
+              <option name="myItemId" value="LibraryProject" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Lesson02" />
+              <option name="myItemId" value="LibraryProject" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Lesson02" />
+              <option name="myItemId" value="LibraryProject" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -204,18 +247,16 @@
   <component name="PropertiesComponent">
     <property name="GoToFile.includeJavaFiles" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
-    <property name="MemberChooser.sorted" value="false" />
     <property name="recentsLimit" value="5" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="MemberChooser.sorted" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
-    <property name="FullScreen" value="false" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="dynamic.classpath" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
   </component>
-  <component name="RunManager" selected="Application.Lesson02Samples">
-    <configuration default="false" name="Lesson02Samples" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson02Samples" />
+  <component name="RunManager" selected="Application.Application">
+    <configuration default="false" name="Application" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Application" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -224,7 +265,7 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Lesson02" />
+      <module name="LibraryProject" />
       <envs />
       <RunnerSettings RunnerId="Debug">
         <option name="DEBUG_PORT" value="" />
@@ -248,19 +289,6 @@
       <option name="SHMEM_ADDRESS" value="javadebug" />
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
@@ -288,6 +316,19 @@
       <envs />
       <properties />
       <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -325,11 +366,11 @@
       <method />
     </configuration>
     <list size="1">
-      <item index="0" class="java.lang.String" itemvalue="Application.Lesson02Samples" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Application" />
     </list>
     <recent_temporary>
       <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Application.Lesson02Samples" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Application" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -338,38 +379,55 @@
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="sslv3">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="7f22fdcd-828d-44dd-bb08-c2343006c912" name="Default" comment="" />
-      <created>1372287945618</created>
-      <updated>1372287945618</updated>
+      <changelist id="34c8787c-6f93-4d91-adf4-d2b7948970b3" name="Default" comment="" />
+      <created>1373515048631</created>
+      <updated>1373515048631</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="10" y="437" width="1260" height="352" extended-state="0" />
-    <editor active="false" />
+    <frame x="0" y="22" width="1260" height="760" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24958813" sideWeight="0.6703125" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3296875" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3296875" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.1578125" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3296875" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24958813" sideWeight="0.8421875" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.0" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -437,66 +495,71 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Lesson02Samples.java">
+    <entry file="jar:///System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/classes.jar!/java/util/ArrayList.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="64" column="0" selection-start="2297" selection-end="2297" vertical-scroll-proportion="0.6969697">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="35" selection-start="1388" selection-end="1388" vertical-scroll-proportion="0.0">
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#0#1435#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/IntArraySorter.java">
+    <entry file="file://$PROJECT_DIR$/src/Book.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="0" selection-start="407" selection-end="407" vertical-scroll-proportion="0.0">
+        <state line="7" column="39" selection-start="180" selection-end="180" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lesson02Samples.java">
+    <entry file="file://$PROJECT_DIR$/src/Magazine.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="8" column="48" selection-start="227" selection-end="227" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Transaction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="0" selection-start="409" selection-end="409" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Item.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="61" column="37" selection-start="1456" selection-end="1456" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="0" selection-start="374" selection-end="374" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Dvd.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="40" selection-start="179" selection-end="179" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Library.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="1" selection-start="1" selection-end="1" vertical-scroll-proportion="0.0">
           <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/IntArraySorter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="0" selection-start="407" selection-end="407" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lesson02Samples.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/IntArraySorter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="0" selection-start="407" selection-end="407" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/IntArraySorter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="0" selection-start="407" selection-end="407" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lesson02Samples.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="78" vertical-scroll-proportion="-6.7647057">
-          <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#217#223#0" expanded="true" />
+            <element signature="e#323#329#0" expanded="true" />
+            <element signature="e#430#443#0" expanded="true" />
           </folding>
         </state>
       </provider>
