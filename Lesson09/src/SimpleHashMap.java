@@ -7,7 +7,16 @@ import java.util.LinkedList;
  */
 public class SimpleHashMap
 {
+    public SimpleHashMap(ArrayList<LinkedList<KeyValueTuple>> dataStore) {
+        this.dataStore = dataStore;
+    }
+
     private class KeyValueTuple {
+        public KeyValueTuple(Object value, String key) {
+            this.value = value;
+            this.key = key;
+        }
+
         public Object value;
         public String key;
     }
@@ -21,6 +30,14 @@ public class SimpleHashMap
         // * Insert the key/value tuple in the linked list at the desired index in the data store
         // * If something in that spot already exists, add it at the end of the linked list
         // * Return the value
+        int hashValue = key.hashCode()%10;
+        KeyValueTuple insertTuple = new KeyValueTuple(value, key);
+        if(dataStore.get(hashValue)==null){
+            dataStore.set(hashValue, insertTuple);
+        }else{
+
+        }
+
         return null;
     }
 

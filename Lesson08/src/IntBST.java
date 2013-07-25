@@ -20,15 +20,51 @@ public class IntBST {
         }
     }
 
+
     public void insertValue(int value) {
         // TODO: Implement insert value for a binary search tree
-        throw new UnsupportedOperationException("Not implemented!");
+        IntNode thisNode;
+
+        if(rootNode == null){
+            rootNode = new IntNode(value);
+        } else {
+            thisNode = rootNode;
+            while (thisNode != null){
+                if(thisNode.getValue()> value && thisNode.getLeftChild() == null){
+                    thisNode.setLeftChild(new IntNode(value));
+                    thisNode = null;
+                }
+                else if (thisNode.getValue()> value && thisNode.getLeftChild() != null){
+                    thisNode = thisNode.getLeftChild();
+                }
+                else if(thisNode.getValue() < value && thisNode.getRightChild() == null){
+                    thisNode.setRightChild(new IntNode(value));
+                    thisNode = null;
+                }
+                else if(thisNode.getValue() < value && thisNode.getRightChild() != null){
+                    thisNode = thisNode.getRightChild();
+                }
+            }
+
+        }
+
     }
 
     public boolean search(int value) {
         // TODO: Implement search for a value for a binary search tree
+        IntNode thisNode;
+        if(rootNode == null){
+            return false;
+        }else {
+            thisNode = rootNode;
+            while (thisNode != null){
+
+            }
+        }
+
         throw new UnsupportedOperationException("Not implemented!");
-        return false;
+
+        //return false;
     }
 
     public void remove(int value) {
