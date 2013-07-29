@@ -1,10 +1,14 @@
 import sun.reflect.generics.reflectiveObjects.NotImplementedException;
 
+import java.util.ArrayList;
+import java.util.HashMap;
+
 import java.util.Arrays;
 
 public class CoinCounter {
     public static int CHANGE_NOT_POSSIBLE_FLAG = Integer.MAX_VALUE;
     private int[] denominations;
+    private HashMap<Integer, Integer> hashMap = new HashMap();
 
     private CoinCounter() {
         super();
@@ -30,23 +34,7 @@ public class CoinCounter {
      * @param totalSum The total value in coins that must be made change for.
      * @return The total number of coins that are needed to make change for totalSum.
      */
-    public int findBiggestCoin(int[] denominations, int value){
-        for (int i = denominations.length -1; i>=0; i--){
-            if(value>=denominations[i]){
-                return denominations[i];
-            }
 
-        }
-        return 0;
-    }
-
-    public int simpleNumberOfCoinsRequired(int totalSum) {
-        int numberOfCoins = 0;
-        while(totalSum > 0){
-            totalSum = totalSum - findBiggestCoin(denominations, totalSum);
-            numberOfCoins = numberOfCoins +1;
-        }
-        return numberOfCoins;
 
 
         /*
@@ -70,7 +58,23 @@ public class CoinCounter {
             Assignment: Implement this algorithm below and make testSimpleNumberOfCoinsRequired pass.
          */
 
-        //throw new NotImplementedException();
+    public int findBiggestCoin(int[] denominations, int value){
+        for (int i = denominations.length -1; i>=0; i--){
+            if(value>=denominations[i]){
+                return denominations[i];
+            }
+
+        }
+        return 0;
+    }
+
+    public int simpleNumberOfCoinsRequired(int totalSum) {
+        int numberOfCoins = 0;
+        while(totalSum > 0){
+            totalSum = totalSum - findBiggestCoin(denominations, totalSum);
+            numberOfCoins = numberOfCoins +1;
+        }
+        return numberOfCoins;
     }
 
     /**
@@ -81,6 +85,8 @@ public class CoinCounter {
      * @param totalSum The total value in coins that must be made change for.
      * @return The total number of coins that are needed to make change for totalSum.
      */
+
+
    public int numberOfCoinsRequired(int totalSum) {
 
 
@@ -108,6 +114,34 @@ public class CoinCounter {
             Second assignment: Make testWonderlandDenominations pass
             Third assignment: Make testTerribleDenominations pass
          */
+
+       //Creates hashmap to store denominations for reference
+       HashMap<Integer, Integer> denomHash = new HashMap<Integer, Integer>();
+        for (int i=0; i<denominations.length; i++){
+            denomHash.put(denominations[i], 1);
+       }
+
+       for(int i=1; i<=totalSum; i++){
+           //if value is a denomination, set to 1
+           if(denomHash.get(i) != null){
+               hashMap.put(i, 1);
+               denomHash.clear();
+           }else {
+               //inserts potential solutions into denomPotentials[] and sets the value to lowest possible
+               int[] denomPotentials = new int[];
+               for(int j=0; j<denominations.length; j++){
+                    int denomValue = totalSum-denominations[j]+1;
+                    denomPotentials[j] = denomValue;
+               }
+               Arrays.sort(denomPotentials);
+               hashMap.put(i,denomPotentials[0]);
+           }
+
+           denomHash.clear();
+        }
+
+
+
 
         throw new NotImplementedException();
 

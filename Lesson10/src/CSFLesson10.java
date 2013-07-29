@@ -39,29 +39,25 @@ public class CSFLesson10 {
 
         System.out.println("Array: " + Arrays.toString(array));
 
-        HashMap<Integer, Integer> hashMap = new HashMap();
-
-        //Loops through array to create hashmap
-
-
-
-        /*
-        for (int i = 0; i < 10; i++) {
-            int thisValue = array[i];
-            boolean isDuplicate = false;
-            for (int j = 0; j < 10; j++) {
-                if ((i != j) && (thisValue == array[j])) {
-                    isDuplicate = true;
-                }
-            }
-
-            if (isDuplicate) {
-                System.out.println("Value " + thisValue + " is a duplicate.");
-            } else {
-                System.out.println("Value " + thisValue + " is not a duplicate.");
+        //stores "is duplicate" boolean in hashmap
+        HashMap<Integer, Boolean> hashMap = new HashMap();
+        for(int i = 0; i < array.length; i++ ){
+            if(!hashMap.containsKey(array[i])){
+                hashMap.put(array[i], false);
+            }else{
+            hashMap.put(array[i], true);
             }
         }
-           */
+
+        //Loops through array once and references hashmap. It's now O(n)
+        for (int i = 0; i < array.length; i++) {
+            if (hashMap.get(array[i]) == true) {
+                System.out.println("Value " + array[i] + " is a duplicate.");
+            } else {
+                System.out.println("Value " + array[i] + " is not a duplicate.");
+            }
+        }
+
     }
 
 
