@@ -18,6 +18,7 @@ public class Search {
          as you search, or perform the search without ever copying the array.
          Start with the former, then try for the latter.
          */
+<<<<<<< HEAD
         if (array.length == 0){
             return false;
         }
@@ -38,6 +39,52 @@ public class Search {
         }else{
             xArray = Arrays.copyOfRange(array, 0, middleIndex);
             return binarySearch(xArray, searchTerm);
+=======
+        //throw new NotImplementedException();
+
+        // Instructor sample soln below
+        return binarySearchWithoutCopy(array, searchTerm);
+        //return binarySearchWithCopy(array, searchTerm);
+    }
+
+    private static boolean binarySearchWithCopy(int[] array, int searchTerm) {
+        if (array.length == 0)
+            return false;
+
+        int middle = array[array.length/2];
+        if (searchTerm == middle)
+            return true;
+        else if (searchTerm < middle) {
+            return binarySearch(Arrays.copyOfRange(array, 0, array.length/2), searchTerm);
+        }
+        else { // Greater than
+            return binarySearch(Arrays.copyOfRange(array, array.length/2 + 1, array.length), searchTerm);
+        }
+    }
+
+    private static boolean binarySearchWithoutCopy(int[] array, int searchTerm) {
+        return binarySearchRecursive(array, searchTerm, 0, array.length);
+    }
+
+    private static boolean binarySearchRecursive(int[] array,
+                                                 int searchTerm,
+                                                 int rangeBegin,
+                                                 int rangeEnd) {
+        if (rangeBegin == rangeEnd)
+            return false;
+
+        int rangeSize = rangeEnd - rangeBegin;
+        int middleIndex = (rangeBegin + rangeEnd)/2;
+        int middleValue = array[middleIndex];
+
+        if (searchTerm == middleValue)
+            return true;
+        else if (searchTerm < middleValue) {
+            return binarySearchRecursive(array, searchTerm, rangeBegin, middleIndex);
+        }
+        else { // Greater than
+            return binarySearchRecursive(array, searchTerm, middleIndex + 1, rangeEnd);
+>>>>>>> 2f5db9c2e617a395930ba392b91e763e3c956cac
         }
     }
 

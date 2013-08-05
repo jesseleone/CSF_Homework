@@ -13,7 +13,25 @@ public class Sort {
      */
     public static void insertionSort(int[] array) {
         // TODO: Perform an insertion sort on the array
-        throw new NotImplementedException();
+//        throw new NotImplementedException();
+
+        // Instructor soln
+        for (int i = 0; i < array.length; i++) {
+            int valueToInsert = array[i];
+            int holeIndex = i;
+
+            while (holeIndex > 0 && valueToInsert < array[holeIndex - 1]) {
+                array[holeIndex] = array[holeIndex - 1];
+                holeIndex--;
+            }
+            array[holeIndex] = valueToInsert;
+        }
+    }
+
+    private static void swap(int[] array, int index1, int index2) {
+        int temp = array[index1];
+        array[index1] = array[index2];
+        array[index2] = temp;
     }
 
     /**
@@ -22,6 +40,7 @@ public class Sort {
      *
      */
     public static int[] recursiveMergeSort(int[] array) {
+<<<<<<< HEAD
         if(array.length==1){
             return array;
         }
@@ -72,5 +91,47 @@ public class Sort {
 
 
         return finalArray;
+=======
+        //throw new NotImplementedException();
+
+        // Instructor sample soln:
+        if (array.length <= 1)
+            return array;
+
+        int middleIndex = array.length/2;
+        int[] left = Arrays.copyOfRange(array, 0, middleIndex);
+        int[] right = Arrays.copyOfRange(array, middleIndex, array.length);
+
+        left = recursiveMergeSort(left);
+        right = recursiveMergeSort(right);
+
+        return merge(left, right);
+    }
+
+    /**
+     * Helper method that merges two sorted arrays together
+     * @param left Left sorted array
+     * @param right Right sorted array
+     * @return The sorted, merged result
+     */
+    private static int[] merge(int[] left, int[] right) {
+        int[] mergedList = new int[left.length + right.length];
+
+        int leftIndex = 0;
+        int rightIndex = 0;
+        for (int i = 0; i < mergedList.length; i++) {
+            if (leftIndex < left.length && (
+                    rightIndex >= right.length ||
+                         left[leftIndex] < right[rightIndex])) {
+                 mergedList[i] = left[leftIndex];
+                 leftIndex++;
+            }
+            else {
+                mergedList[i] = right[rightIndex];
+                rightIndex++;
+            }
+        }
+        return mergedList;
+>>>>>>> 2f5db9c2e617a395930ba392b91e763e3c956cac
     }
 }
